@@ -1,0 +1,22 @@
+body{
+	background: url(https://steamuserimages-a.akamaihd.net/ugc/269463939060337242/A064FE099954A915A0A3DB3BD8046FC0AFFD6D9C/);
+}
+
+h1{
+	color: #f96161;
+	border: 3px solid white;
+}
+
+h3{
+	color: #31bbd8;
+}
+
+p{
+	color: #ee0053;
+	background: #22FF4E;
+}
+
+.test{
+	background: white;
+	color: black;
+}
